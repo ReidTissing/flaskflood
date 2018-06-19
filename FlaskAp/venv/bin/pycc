@@ -1,3 +1,0 @@
-#!/mnt/d/app/FlaskApp/venv/bin/python3.5
-from numba.pycc import main
-main()
