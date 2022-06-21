@@ -23,7 +23,7 @@ matplotlib==2.2.2
 networkx==2.1
 normality==0.6.1
 numba==0.38.1
-numpy==1.14.5
+numpy==1.22.0
 pandas==0.23.1
 parse==1.8.4
 pyparsing==2.2.0
